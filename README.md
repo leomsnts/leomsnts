@@ -1,7 +1,3 @@
-![banner github](https://media.licdn.com/dms/image/D4D16AQElNlIWWIbxvg/profile-displaybackgroundimage-shrink_350_1400/0/1689718695266?e=1717027200&v=beta&t=emwmDBttqJJeek-BdWk_q_lX1DJMpAztovWYGVOPDAk)
-
-![leomsnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=francatti&show_icons=true&title_color=a05eee&text_color=18829c&icon_color=d74fdc&hide_border=true&bg_color=000000) 
-
 
 | Nível  | Skills |
 | ------------- | ------------- |
